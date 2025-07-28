@@ -65,6 +65,8 @@ The dataset contains detailed information about grocery items sold through vario
 # ✅ How to Run
   1. Clone the repository:
 
+          https://github.com/Vaishnavi-76304/BlinkIT-Grocery-Sales-Analysis.git
+         
   2. Open BlinkIT_Dataset.ipynb in Jupyter Notebook or VSCode.
 
   3. Install required libraries:
